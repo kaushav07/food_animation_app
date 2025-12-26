@@ -1,4 +1,4 @@
-# 🍰 Food Animation App – Cheesecake Edition
+# 🍰 Food Animation App
 
 A Flutter-based food animation app that showcases different **cheesecake recipes** with smooth animations and a clean user interface.  
 The app focuses on visual storytelling of food, making recipes engaging and fun to explore.
