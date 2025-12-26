@@ -33,8 +33,3 @@ The app focuses on visual storytelling of food, making recipes engaging and fun 
 - **Dart**
 - Custom animations
 - Asset-based UI design
-
----
-
-## 📂 Project Structure
-
