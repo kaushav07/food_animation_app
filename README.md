@@ -12,6 +12,8 @@ The app focuses on visual storytelling of food, making recipes engaging and fun 
 - 📱 Clean and modern UI
 - ⚡ Fast performance with Flutter
 - 🌐 Multi-platform support (Android, iOS, Web, Desktop)
+> ⚠️ Note: This app does **not** fetch real weather data.  
+> It is a **UI demonstration project**.
 
 ---
 
