@@ -1,16 +1,38 @@
-# food_app
+# 🍰 Food Animation App – Cheesecake Edition
 
-A new Flutter project.
+A Flutter-based food animation app that showcases different **cheesecake recipes** with smooth animations and a clean user interface.  
+The app focuses on visual storytelling of food, making recipes engaging and fun to explore.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🎬 Smooth food animations
+- 🍓 Cheesecake-focused recipes
+- 📱 Clean and modern UI
+- ⚡ Fast performance with Flutter
+- 🌐 Multi-platform support (Android, iOS, Web, Desktop)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧁 Recipes Included
+
+- Classic Cheesecake  
+- Strawberry Cheesecake  
+- Chocolate Cheesecake  
+- Blueberry Cheesecake  
+- More coming soon...
+
+---
+
+## 🛠 Tech Stack
+
+- **Flutter**
+- **Dart**
+- Custom animations
+- Asset-based UI design
+
+---
+
+## 📂 Project Structure
+
